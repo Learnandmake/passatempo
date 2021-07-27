@@ -16,3 +16,5 @@ if (contagem>10)
 }
 
 }
+
+numrandom();

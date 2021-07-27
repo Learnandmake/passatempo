@@ -1,4 +1,4 @@
-function numrandom()
+function numrandom1()
 {
     console.log("vou contar 10 numeros aleatorios");
     let contagem1 =prompt("digite qualquer limite");
@@ -16,3 +16,4 @@ if (contagem>contagem1)
 }
 
 }
+numrandom1();
